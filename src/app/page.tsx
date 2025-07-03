@@ -1,9 +1,17 @@
-import React from 'react'
+"use client"
+import React,{useEffect} from 'react'
+import {redirect} from "next/navigation"
 
-const Page = () => {
-  return (
-    <div>Page</div>
-  )
+export default function (){
+    redirect("/home")
 }
 
-export default Page
+// export const Page = () => {
+//  const router =useRouter()
+//  useEffect(()=>{
+//   router.push("home")
+//  })
+ 
+// }
+
+ 

@@ -12,7 +12,7 @@ const Hero3 = () => {
         </div>
 
         <div className=' w-screen mt-24 '>
-           <h2 className='font-bold text-center text-2xl'>"More Than Just a Plant Store"</h2>
+           <h2 className='font-bold text-center text-2xl'>&quot;More Than Just a Plant Store&quot;</h2>
            <p className='mx-28 text-center text-xl'>At Greenspire, we are not just about selling plants-we are about creating a greener future.Our mission is to make plants accessible to everyone while promoting sustainability and community involvement. </p>
         </div>
 

@@ -59,7 +59,7 @@ const Hero2 = () => {
               <span className="w-full pl-6 font-bold ">Help Us Grow the Green Movement!
                 <ul className="list-disc font-normal">
                   <li>If you loved the initative,you can support us in any way you like.</li>
-                  <li>Buy a premium plant , donate a little, or just spread the word -It's totally up to you!</li>
+                  <li>Buy a premium plant , donate a little, or just spread the word -It&apos;s totally up to you!</li>
                 </ul>
                 </span></div>
           </div>

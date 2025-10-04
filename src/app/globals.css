@@ -27,3 +27,16 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@font-face {
+  font-family: 'Galins';
+  src: url('/fonts/Galins.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face{
+  font-family:'Monsterrat';
+  src:url('/fonts/MonsterratAlternatives-Regular.ttf') format('truetype');
+  font-weight:400;
+  font-style:normal;
+}

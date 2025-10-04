@@ -42,7 +42,7 @@ const Home = () => {
 
           {/* Sign in button (hidden on small) */}
           <div className="w-10 sm:w-12 md:w-16">
-            <p className="max-lg:hidden  w-[4rem] md:w-[6rem] px-2 py-1 text-xs md:text-sm h-[2rem] text-white border-white border-2 rounded-full justify-center items-center">
+            <p className="max-lg:hidden  w-[4rem] md:w-[6rem] px-2 py-1 text-xs md:text-sm h-[2rem] text-white border-white border-2 rounded-full flex justify-center items-center">
               SIGN IN
             </p>
           </div>
